@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Benjamin Chaises
 
-Welcome to my GitHub profile! I'm a passionate **Backend Developer** with a love for building efficient and scalable solutions. My journey in development has been shaped by years of hands-on experience in a variety of technologies and frameworks. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate **Backend Developer** with a love for building efficient solutions. My journey in development has been shaped by years of hands-on experience in a variety of technologies and frameworks. Here's a bit about me:
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Graduate in Computer Science with a Master's degree from **EPSI**.
-- 💼 Former backend developer at **Bedrock Streaming**, where I contributed to internal tools and maintained critical services.
+- 💼 I completed 3 years of apprenticeship at **Bedrock Streaming** and **BGB Concept**, where I contributed to internal tools, developed solutions, and maintained services.
 - 🌍 Based in Paris, but always ready to connect with people from around the globe.
 - 🌟 Languages: French (native), English (B2).
 
@@ -46,16 +46,6 @@ Welcome to my GitHub profile! I'm a passionate **Backend Developer** with a love
 - 🚀 Always eager to learn new technologies.
 - 💡 Enthusiastic about contributing to open-source projects and collaborating with dynamic teams.
 - 🧩 A problem-solver who loves tackling coding puzzles and challenges.
-
----
-
-## 🌟 Fun Facts About Me
-
-- 🎮 I love simulation and strategy games.
-- 🍰 Baking is my way to unwind and experiment with creativity.
-- 🌐 I'm always curious about scientific and technological innovations.
-
----
 
 ## 📬 Let's Connect
 
