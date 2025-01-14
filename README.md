@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Benjamin Chaises
 
-Welcome to my GitHub profile! I'm a passionate **Backend Developer** with a love for building efficient solutions. My journey in development has been shaped by years of hands-on experience in a variety of technologies and frameworks. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate **Web Developer** with a love for building efficient solutions. My journey in development has been shaped by years of hands-on experience in a variety of technologies and frameworks. Here's a bit about me:
 
 ---
 
