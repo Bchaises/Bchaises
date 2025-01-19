@@ -2,16 +2,12 @@
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** with a love for building efficient solutions. My journey in development has been shaped by years of hands-on experience in a variety of technologies and frameworks. Here's a bit about me:
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Graduate in Computer Science with a Master's degree from **EPSI**.
 - 💼 I completed 3 years of apprenticeship at **Bedrock Streaming** and **BGB Concept**, where I contributed to internal tools, developed solutions, and maintained services.
 - 🌍 Based in Paris, but always ready to connect with people from around the globe.
 - 🌟 Languages: French (native), English (B2).
-
----
 
 ## 🛠️ My Skills
 
@@ -38,8 +34,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a love for
 [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-
----
 
 ## 🎯 What Drives Me
 
