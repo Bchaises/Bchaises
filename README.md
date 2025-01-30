@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a love for
 [![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)](https://symfony.com/)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-DD4814?style=flat&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
+[![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)](https://react.dev/)
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
